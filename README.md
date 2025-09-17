@@ -78,32 +78,32 @@ O sistema permite que os usuários selecionem pontos de origem e destino em um m
 ### Tela Inicial
 A interface inicial da aplicação com o mapa interativo pronto para seleção de pontos.
 
-![Tela Inicial](assets/images/welcome-state.png)
+<img src="assets/images/welcome-state.png" alt="Tela Inicial" height="300">
 
 ### Seleção de Ponto de Origem
 Após selecionar o primeiro ponto (origem), o sistema aguarda a seleção do destino.
 
-![Ponto de Origem Selecionado](assets/images/start-point-selected.png)
+<img src="assets/images/start-point-selected.png" alt="Ponto de Origem Selecionado" height="300">
 
 ### Algoritmo em Execução
 Visualização em tempo real do algoritmo de Dijkstra explorando o grafo de ruas com estatísticas detalhadas.
 
-![Procurando Rotas](assets/images/searching-routes-stats.png)
+<img src="assets/images/searching-routes-stats.png" alt="Procurando Rotas" height="300">
 
 ### Rota Encontrada - Interface
 Interface da aplicação mostrando a rota encontrada destacada no mapa.
 
-![Interface com Rota Encontrada](assets/images/route-found-ui.png)
+<img src="assets/images/route-found-ui.png" alt="Interface com Rota Encontrada" height="300">
 
 ### Rota Encontrada - Estatísticas
 Painel de informações detalhadas sobre a rota encontrada e performance do algoritmo.
 
-![Estatísticas da Rota Encontrada](assets/images/route-found-stats.png)
+<img src="assets/images/route-found-stats.png" alt="Estatísticas da Rota Encontrada" height="300">
 
 ### Visualização da Rota Selecionada
 Vista completa da rota selecionada com todos os nós e arestas do caminho ótimo.
 
-![Rota Selecionada](assets/images/selected-route.png)
+<img src="assets/images/selected-route.png" alt="Rota Selecionada" height="300">
 
 ## Arquitetura do Sistema
 
