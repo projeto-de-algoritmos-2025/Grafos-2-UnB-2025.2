@@ -8,7 +8,12 @@
 | Matrícula |          Nome Completo           |
 | :-------: | :------------------------------: |
 | 200041959 | Mauricio Machado Fernandes Filho |
-| 221008202 |   José Eduardo Vieira do Prado   |
+| 221008202 | José Eduardo Vieira do Prado     |
+
+
+## Descrição 
+O trabalho de grafos 2 está divido em dois seguimentos, um projeto que implementa um **Planejador de Rotas com Visualização do Algoritmo de Dijkstra** utilizando dados reais do OpenStreetMap (OSM) e dois [Exercícios do LeetCode](#exercícios-LeetCode) (1 médio e um difícil)
+
 
 ## Descrição do Projeto
 
@@ -165,3 +170,5 @@ Este projeto serve como uma ferramenta educacional para:
 ## Linguagens Utilizadas
 
 - **Dart** - Linguagem principal do projeto
+
+# Exercícios LeetCode 
