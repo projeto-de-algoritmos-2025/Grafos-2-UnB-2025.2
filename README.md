@@ -12,7 +12,7 @@
 
 
 ## Descrição 
-O trabalho de grafos 2 está divido em dois seguimentos, um projeto que implementa um **Planejador de Rotas com Visualização do Algoritmo de Dijkstra** utilizando dados reais do OpenStreetMap (OSM) e dois [Exercícios do LeetCode](#exercícios-LeetCode) (1 médio e um difícil)
+O trabalho de grafos 2 está divido em dois seguimentos, um projeto que implementa um **Planejador de Rotas com Visualização do Algoritmo de Dijkstra** utilizando dados reais do OpenStreetMap (OSM) e dois [Exercícios do LeetCode](#exercícios-LeetCode) (um médio e um difícil)
 
 
 ## Descrição do Projeto
@@ -177,10 +177,14 @@ Este projeto serve como uma ferramenta educacional para:
 
 [1584.MinCostToConnectAllPoints](https://leetcode.com/problems/min-cost-to-connect-all-points/submissions/1778382634)
 
-[Vídeo Solução Exercício 1](link-aqui)
+![ex01](/exercicios/1584.MinCostToConnectAllPoints.png)
+
+[Vídeo Solução Exercício 1](https://youtu.be/MCmEIIpQRbo)
 
 ### Exercício 02 - Difícil
 
 [924.MinimizeMalwareSpread](https://leetcode.com/problems/minimize-malware-spread/submissions/1778510745)
 
-[Vídeo Solução Exercício 2](link-aqui)
+![ex02](/exercicios/924.MinimizeMalwareSpread.png)
+
+[Vídeo Solução Exercício 2](https://youtu.be/ohh5QCndKY8)
