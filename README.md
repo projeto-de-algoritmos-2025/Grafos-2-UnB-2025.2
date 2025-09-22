@@ -172,3 +172,15 @@ Este projeto serve como uma ferramenta educacional para:
 - **Dart** - Linguagem principal do projeto
 
 # Exercícios LeetCode 
+
+### Exercício 01 - Médio
+
+[1584.MinCostToConnectAllPoints](https://leetcode.com/problems/min-cost-to-connect-all-points/submissions/1778382634)
+
+[Vídeo Solução Exercício 1](link-aqui)
+
+### Exercício 02 - Difícil
+
+[924.MinimizeMalwareSpread](https://leetcode.com/problems/minimize-malware-spread/submissions/1778510745)
+
+[Vídeo Solução Exercício 2](link-aqui)
